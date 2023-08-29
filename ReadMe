@@ -1,0 +1,6 @@
+I created a Java Spring Boot application for a ticket booking system that is able to handle high concurrency.
+I used JDBC to connect Intellij with the MySQL workbench.
+Built the code using controllers, DTOs, multiple repositories, services, and models to make sure the code follows all the good design practices and SOLID principles.
+I used object-Relational mapping (JPA in my case) to handle the cardinality and to create objects
+I used Lombok for getters and setters to make the code look cleaner.
+Listed down the steps to handle concurrency in the Ticket Service class.
